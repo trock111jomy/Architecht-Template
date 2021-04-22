@@ -1,0 +1,11 @@
+@import url("Components/container.css");
+@import url("Components/nav-bar.css");
+@import url("Components/base-container.css");
+@import url("Components/text-style.css");
+@import url("Components/button.css");
+@import url("Components/input.css");
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;
+}
+

@@ -1,0 +1,49 @@
+.base-container{
+    width: 97%;
+    margin:0 auto;
+    /* border: 1px solid red; */
+}
+
+.sub-heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    border-bottom:1px solid rgba(0, 0, 0, 0.205);
+    margin:50px 5px 30px 5px;
+    /* border:1px solid green; */
+}
+
+.cards-buildings{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.card-house{
+    width:400px;
+    height:200px;
+    margin:5px;
+}
+
+.card-house p {
+    background-color: black;
+    color: white;
+    font-size: .7em;
+    width: 45%;
+    text-align: center;
+    padding: 12px 1px;
+    margin-top:0;    
+}
+.card-people{
+    width:400px;
+    /* height:200px; */
+    margin:5px;
+}
+.card-people img{
+    width: 100%;
+    background-size:cover;
+
+}
+.contact-form{
+    font-size: 32px;
+    border: 3px dotted black;
+}
